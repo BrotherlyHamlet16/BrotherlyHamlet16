@@ -6,7 +6,7 @@ I'm a passionate Software Engineer/Developer with a.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunny-patel-30b460204/)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Clever-Niwagaba&theme=midnight-purple&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BrotherlyHamlet16&theme=midnight-purple&mode=weekly)](https://git.io/streak-stats)
 
 ## About Me
 
