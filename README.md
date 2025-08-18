@@ -25,21 +25,11 @@ I'm a passionate Software Engineer/Developer with a.
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40">](https://www.python.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40">](https://www.cplusplus.com/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-// [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="40">](https://www.typescriptlang.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="40">](https://www.typescriptlang.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40">](https://reactjs.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40">](https://nodejs.org/)
-
-### **Cybersecurity**
-
-[<img src="https://www.kali.org/images/kali-tools-icon-missing.svg" height="40">](https://www.kali.org/)
-[<img src="https://www.wireshark.org/favicon.ico" height="40">](https://www.wireshark.org/)
-[<img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" height="40">](https://nmap.org/)
-[<img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" height="40">](https://www.metasploit.com/)
-[<img src="https://www.kali.org/tools/john/images/john-logo.svg" height="40">](https://www.openwall.com/john/)
-[<img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" height="40">](https://github.com/vanhauser-thc/thc-hydra)
-[<img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" height="40">](https://www.aircrack-ng.org/)
 
 ### **IT Tools**
 
