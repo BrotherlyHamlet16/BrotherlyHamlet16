@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=656BF7&random=false&width=435&lines=Full-Stack+Developer;Backend+Engineer;Cloud+Computing+Learner;DevOps+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=656BF7&random=false&width=435&lines=Full-Stack+Developer;Backend+Programmer;Cyber+Security+Enthusiast;DevOps+Enthusiast)](https://git.io/typing-svg)
 
 # Hey there, I'm Clever Niwagaba! 🚀
 
-I'm a passionate Software Engineer/Developer with a.
+I'm a passionate Software Engineer/Developer who likes to code. I love creative projects, fun projects, and projects that have impact in the community
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunny-patel-30b460204/)
 
