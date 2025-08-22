@@ -4,7 +4,7 @@
 
 I'm a passionate Software Engineer/Developer who likes to code. I love creative projects, fun projects, and projects that have impact in the community
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/clever-niwagaba](https://www.linkedin.com/in/clever-niwagaba))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/clever-niwagaba])
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BrotherlyHamlet16&theme=midnight-purple&mode=weekly)](https://git.io/streak-stats)
 
